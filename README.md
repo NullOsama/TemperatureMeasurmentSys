@@ -1,2 +1,4 @@
 # TemperatureMeasurmentSys
-an embedded system dedicated to measure a room temperature from a temperature sensor, and accordingly control a cooling fan.
+An embedded system dedicated to measure a room temperature from a temperature sensor, and accordingly control a cooling fan.
+
+Here the temperature sensor is represented by a Potentiometer and the it's displayed on the LCD screen after being converted from analog to digital.
